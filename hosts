@@ -2,7 +2,7 @@
 #
 # This hosts file is kewl
 # Source: https://raw.githubusercontent.com/thisisu/hosts/master/hosts_adultxxx
-# Formatting: SED -R "s/^(\w+.*)/0\.0\.0\.0 \1/" <input.txt >output.txt
+# Formatting: SED -R "s/^(\w+.*)/0\.0\.0\.0 \1/;s/\:443$//" <input.txt >output.txt
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -19,7 +19,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# ClickAdu
+# ClickAdu (216.172.60.116)
 0.0.0.0 abrsamar.com
 0.0.0.0 aclickads.com
 0.0.0.0 adbidgo.com
@@ -230,3 +230,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 zarlomgog.com
 0.0.0.0 zavrotfro.com
 0.0.0.0 zbnfhsk.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Biqle.ru
+0.0.0.0 5nt1gx7o57.com
+0.0.0.0 6moxhf9rmm.com
+0.0.0.0 a.adtng.com
+0.0.0.0 browserr.top
+0.0.0.0 counter.yadro.ru
+0.0.0.0 cttghjfhsw.com
+0.0.0.0 dgafgadsgkjg.top
+0.0.0.0 htopensationclie.info
+0.0.0.0 ie8eamus.com
+0.0.0.0 nbf9b5aurl.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 subscribers.click
+0.0.0.0 trillianu.info
+0.0.0.0 xacersconceptin.info
+
