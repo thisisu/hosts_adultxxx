@@ -3,6 +3,7 @@
 # This hosts file is kewl
 # Source: https://raw.githubusercontent.com/thisisu/hosts/master/hosts_adultxxx
 # Formatting: SED -R "s/^(\w+.*)/0\.0\.0\.0 \1/;s/\:443$//" <input.txt >output.txt
+# Formatting #2: AWK "!x[$0]++" <input.txt >output.txt
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -19,7 +20,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# ClickAdu (216.172.60.116)
+# ClickAdu (216.172.60.116 & 109.206.164.148)
 0.0.0.0 abrsamar.com
 0.0.0.0 aclickads.com
 0.0.0.0 adbidgo.com
@@ -98,6 +99,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iddpop.com
 0.0.0.0 idiafix.com
 0.0.0.0 iendoo.com
+0.0.0.0 instantresp.com
 0.0.0.0 iociley.com
 0.0.0.0 ionnmjdsf.com
 0.0.0.0 ioredi.com
@@ -144,6 +146,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 poredii.com
 0.0.0.0 ppcashpop.com
 0.0.0.0 ppfrlfe.com
+0.0.0.0 ppn.dsp.wtf
 0.0.0.0 profbigo.com
 0.0.0.0 propbigo.com
 0.0.0.0 prpopss.com
@@ -207,6 +210,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 urtirepor.com
 0.0.0.0 vavcashpop.com
 0.0.0.0 vebadu.com
+0.0.0.0 videos.xupdatevideos.com
 0.0.0.0 viliaff.com
 0.0.0.0 vlogoflife.com
 0.0.0.0 voradu.com
@@ -219,6 +223,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xebadu.com
 0.0.0.0 xineday.com
 0.0.0.0 xoredi.com
+0.0.0.0 xupdatevideos.com
 0.0.0.0 xxccdshj.com
 0.0.0.0 xxladu.com
 0.0.0.0 xxlargepop.com
@@ -230,6 +235,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 zarlomgog.com
 0.0.0.0 zavrotfro.com
 0.0.0.0 zbnfhsk.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Biqle.com
+0.0.0.0 dsstrk.com
+0.0.0.0 hw-cdn2.contentabc.com
+0.0.0.0 llahnch259.com
+0.0.0.0 static.exosrv.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Biqle.ru
 0.0.0.0 5nt1gx7o57.com
@@ -246,4 +257,39 @@ ff02::3 ip6-allhosts
 0.0.0.0 subscribers.click
 0.0.0.0 trillianu.info
 0.0.0.0 xacersconceptin.info
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Daftsex.com
+0.0.0.0 o3sndvzo25.com
+0.0.0.0 ogrfi3uyt7.com
+0.0.0.0 r.remarketingpixel.com
+0.0.0.0 sadsims.com
+0.0.0.0 vkaofq64zz.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Pornhub.com
+0.0.0.0 ads.trafficjunky.net
+0.0.0.0 etahub.com
+0.0.0.0 hw-cdn-ap.trafficjunky.net
+0.0.0.0 n1272adserv.xyz
+0.0.0.0 vz-cdn.trafficjunky.net
+0.0.0.0 vz-cdn2.contentabc.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Terk.nl
+0.0.0.0 a.exosrv.com
+0.0.0.0 eu-adsrv.rtbsuperhub.com
+0.0.0.0 main.exosrv.com
+0.0.0.0 pixelsrvdmn.com
+0.0.0.0 static.exosrv.com
+0.0.0.0 syndication.exosrv.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Xvideos.com
+0.0.0.0 cdnegc.trafficfactory.biz
+0.0.0.0 rpc-php.trafficfactory.biz
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
 
