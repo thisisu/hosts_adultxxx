@@ -1,7 +1,7 @@
 # Title: thisisu/hosts_adultxxx
 #
 # This hosts file is kewl
-# Source: https://raw.githubusercontent.com/thisisu/hosts/master/hosts_adultxxx
+# Raw: https://raw.githubusercontent.com/thisisu/hosts_adultxxx/master/hosts
 # Formatting: SED -R "s/^(\w+.*)/0\.0\.0\.0 \1/;s/\:443$//" <input.txt >output.txt
 # Formatting #2: AWK "!x[$0]++" <input.txt >output.txt
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
