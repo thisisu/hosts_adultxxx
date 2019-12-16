@@ -250,10 +250,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 counter.yadro.ru
 0.0.0.0 cttghjfhsw.com
 0.0.0.0 dgafgadsgkjg.top
+0.0.0.0 distoryrussion.info
 0.0.0.0 htopensationclie.info
 0.0.0.0 ie8eamus.com
 0.0.0.0 nbf9b5aurl.com
 0.0.0.0 secure.adnxs.com
+0.0.0.0 seeneralrespan.info
 0.0.0.0 subscribers.click
 0.0.0.0 trillianu.info
 0.0.0.0 volvejudgetneig.info
@@ -364,6 +366,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ptentry.com
 0.0.0.0 www.awemwh.com
 0.0.0.0 www.awept.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Porn.com
+0.0.0.0 delivery.impressionmonster.com
+0.0.0.0 delivery.porn.com
+0.0.0.0 socketviking.net
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Pornhub.com
 0.0.0.0 ads.trafficjunky.net
