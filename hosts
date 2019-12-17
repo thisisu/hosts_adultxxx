@@ -367,6 +367,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.awemwh.com
 0.0.0.0 www.awept.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Playvids.com
+0.0.0.0 ads.madcheddar.com
+0.0.0.0 cdn.itsup.com
+0.0.0.0 dat.itsup.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Porn.com
 0.0.0.0 delivery.impressionmonster.com
 0.0.0.0 delivery.porn.com
@@ -379,6 +384,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 n1272adserv.xyz
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vz-cdn2.contentabc.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Pornoeggs.com
+0.0.0.0 ads.exosrv.com
+0.0.0.0 fastrotate.com
+0.0.0.0 itspsmup.com
+0.0.0.0 statserv.net
+0.0.0.0 syndication.dynsrvtbg.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Porntrex.com
 0.0.0.0 servedbyadbutler.com
