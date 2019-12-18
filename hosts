@@ -1,5 +1,5 @@
 # Title: thisisu/hosts_adultxxx
-#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # This hosts file is kewl
 # Raw: https://raw.githubusercontent.com/thisisu/hosts_adultxxx/master/hosts
 # Formatting: SED -R "s/^(\w+.*)/0\.0\.0\.0 \1/;s/\:443$//" <input.txt >output.txt
@@ -251,6 +251,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cttghjfhsw.com
 0.0.0.0 dgafgadsgkjg.top
 0.0.0.0 distoryrussion.info
+0.0.0.0 expectivepo.info
 0.0.0.0 htopensationclie.info
 0.0.0.0 ie8eamus.com
 0.0.0.0 m328ii38yg76vw.com
@@ -260,6 +261,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 subscribers.click
 0.0.0.0 trillianu.info
 0.0.0.0 volvejudgetneig.info
+0.0.0.0 wk4x5rdtoz2tn0.com
 0.0.0.0 xacersconceptin.info
 0.0.0.0 ycarpethjan.info
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
