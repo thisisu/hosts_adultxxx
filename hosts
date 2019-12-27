@@ -289,6 +289,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 vkaofq64zz.com
 0.0.0.0 vltwox7zl7h1wv.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Gotporn.com
+0.0.0.0 adservice.google.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ia.51.la
+0.0.0.0 js.users.51.la
+0.0.0.0 syndication.dynsrvwer.com
+0.0.0.0 www.flurryana.shop
+0.0.0.0 www.fmryvc.top
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # LiveJasmin
 0.0.0.0 awecrptjmp.com
 0.0.0.0 awejmp.com
