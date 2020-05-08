@@ -8,7 +8,10 @@ color 17
 sc config Dnscache start= disabled
 sc stop Dnscache
 NIRCMD wait 2000
-COPY /Y "E:\Github\hosts_adultxxx\hosts" "%hostsD%\hosts"
+COPY /Y "%hostsD%\hosts" "%hostsD%\hosts.backup"
+MOVE /Y "%hostsD%\hosts" "%userprofile%\desktop\hosts"
+COPY /Y "E:\Github\hosts_adultxxx\hosts" "%userprofile%\desktop\hosts"
+COPY /Y "%userprofile%\desktop\hosts" "%hostsD%\hosts"
 sc config Dnscache start= auto
 SC start Dnscache
 NIRCMD WAIT 2000
