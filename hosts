@@ -2592,8 +2592,8 @@
 0.0.0.0 t.dtscout.com
 0.0.0.0 t.dtscdn.com
 0.0.0.0 p.adsymptotic.com
-match.adsrvr.org
-cm.g.doubleclick.net
+0.0.0.0 match.adsrvr.org
+0.0.0.0 cm.g.doubleclick.net
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Gotporn.com
 0.0.0.0 adservice.google.com
