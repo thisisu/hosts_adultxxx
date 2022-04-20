@@ -1,5 +1,6 @@
 :: Build Hosts Solo
 :: Created by thisisu
+:: Lil sorter SED -R "s/^(.*)/0\.0\.0\.0 \1/" <input.txt >out.txt
 @echo off && SET "hostsD=C:\Windows\System32\drivers\etc"
 Echo(Build_Hosts_Solo.bat loaded!
 ECHO.
