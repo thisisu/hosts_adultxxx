@@ -3303,7 +3303,7 @@
 0.0.0.0 ads.madcheddar.com
 0.0.0.0 cdn.itsup.com
 0.0.0.0 dat.itsup.com
-0.0.0.0 twinrdsrv.com [Exoclick?]
+0.0.0.0 twinrdsrv.com # Exoclick?
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Porn.com
 0.0.0.0 delivery.impressionmonster.com
@@ -3389,7 +3389,7 @@
 0.0.0.0 a.focusde.info
 0.0.0.0 a.gofilms4u.pro
 0.0.0.0 a.labadena.com
-0.0.0.0 a.o333o.com # "Adspyglass"
+0.0.0.0 a.o333o.com
 0.0.0.0 a.prmovies.org
 0.0.0.0 a.shukriya90.com
 0.0.0.0 a.zillastream.com
