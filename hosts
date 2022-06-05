@@ -7472,13 +7472,13 @@
 0.0.0.0 www.zargutivisor.info
 0.0.0.0 zargutivisor.info
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Biqle.com
+# Biqle.com [Uses AdsTerra]
 0.0.0.0 dsstrk.com
 0.0.0.0 hw-cdn2.contentabc.com
 0.0.0.0 llahnch259.com
 0.0.0.0 ta3nfsordd.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Biqle.ru ==> Biqle.org
+# Biqle.ru ==> Biqle.org [Uses AdsTerra]
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 5nt1gx7o57.com
 0.0.0.0 6moxhf9rmm.com
@@ -7856,7 +7856,7 @@
 # Pornwiss.com [Uses ClickAdu AND AdsTerra. Also lots of crap under these two IPs]
 # 188.34.134.68
 # 188.34.134.78
-# Regex for pi-hole or similar environment. ^[a-z0-9]{10}\.[a-z0-9]{10}\.com$ This blocks the pop under banner but also breaks video playback :\
+# Regex for Pi-Hole or similar environment: ^[a-z0-9]{10}\.[a-z0-9]{10}\.com$ This blocks the pop under banner but also breaks video playback :\
 0.0.0.0 alertask.com
 0.0.0.0 alertder.com
 0.0.0.0 alertfirm.com
