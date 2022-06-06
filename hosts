@@ -18,7 +18,7 @@
 # 198.134.112.244
 # 213.174.153.229
 # 213.174.153.231
-# Regex for Pi-Hole or similar environment: ^pl[0-9]{6,8}\.[a-z]{3,}(?:usa|content|revenue|network|cpm|gate|clouds|html)\.com$
+# Regex for Pi-Hole or similar environment: ^pl[0-9]{6,8}\.[a-z]{3,}(?:u(?:r|s)a|content|revenue|network|cpm|gate|clouds|html\.com$
 0.0.0.0 00ajwfx7g882.com
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 05xz0h2xo799.com
@@ -7353,6 +7353,7 @@
 0.0.0.0 miami_web.goadserver.com
 0.0.0.0 origin-ads.exdynsrv.com
 0.0.0.0 origin-ads.realsrv.com
+0.0.0.0 pixelsrvdmn.com # Guessing this belongs here
 0.0.0.0 rd.go.goadserver.com
 0.0.0.0 rd.static.goadserver.com
 0.0.0.0 s.elnk4b.com
@@ -7367,6 +7368,7 @@
 0.0.0.0 static.realsrv.com
 0.0.0.0 syndication-xv.realsrv.com
 0.0.0.0 syndication.dynsrvtbg.com
+0.0.0.0 syndication.dynsrvwer.com
 0.0.0.0 syndication.epcmh.com
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
@@ -8255,7 +8257,6 @@
 0.0.0.0 ia.51.la
 0.0.0.0 js.users.51.la
 0.0.0.0 static.hotjar.com
-0.0.0.0 syndication.dynsrvwer.com
 0.0.0.0 track.gotprofits.com
 0.0.0.0 webmasters.gotprofits.com
 0.0.0.0 www.flurryana.shop
@@ -8264,6 +8265,7 @@
 # LiveJasmin
 # 93.93.51.223
 # 93.93.51.191
+# 104.18.42.40
 0.0.0.0 apbbjmp.com
 0.0.0.0 apptjmp.com
 0.0.0.0 awbbgate.com
@@ -8287,11 +8289,13 @@
 0.0.0.0 cams.nickyoungxxx.com
 0.0.0.0 cams.whatadultswant.com
 0.0.0.0 click.jasmin.com
+0.0.0.0 clicks.memberclicks-mail.net
 0.0.0.0 cradver.livejasmin.com
 0.0.0.0 crbbgate.com
 0.0.0.0 crbbjmp.com
 0.0.0.0 crcom.bimbim.com
 0.0.0.0 crcom.livejasmin.com
+0.0.0.0 creative.xxxivjmp.com
 0.0.0.0 crengate.com
 0.0.0.0 crentexgate.com
 0.0.0.0 crentgate.com
@@ -8334,6 +8338,8 @@
 0.0.0.0 gaslleryn2.awemwh.com
 0.0.0.0 gaslleryn3.awemwh.com
 0.0.0.0 gateway.livesexbar.com
+0.0.0.0 go.ktkjmp.com
+0.0.0.0 go.xxxivjmp.com
 0.0.0.0 jmp.awempire.com
 0.0.0.0 jsmcrjmp.com
 0.0.0.0 jsmcrptjmp.com
@@ -8351,6 +8357,7 @@
 0.0.0.0 lubet.pt-static5.awecr.com
 0.0.0.0 mptentry.com
 0.0.0.0 mptgate.com
+0.0.0.0 namecreative.xxxivjmp.com
 0.0.0.0 pctlwm.com
 0.0.0.0 protoawe.com
 0.0.0.0 protojsmgw.com
@@ -8415,6 +8422,8 @@
 0.0.0.0 ptwmemd.com
 0.0.0.0 ptwmjmp.com
 0.0.0.0 pwmctl.com
+0.0.0.0 video.xxxijmp.com
+0.0.0.0 video.xxxivjmp.com
 0.0.0.0 wmptctl.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Noodlemagazine.com [Uses ClickAdu and BuyMedia]
@@ -8505,6 +8514,7 @@
 0.0.0.0 d1272serve.xyz
 0.0.0.0 e1272serve.xyz
 0.0.0.0 etahub.com
+0.0.0.0 evtubescms.phncdn.com
 0.0.0.0 f1272serve.xyz
 0.0.0.0 hw-cdn-ap.trafficjunky.net
 0.0.0.0 n1272adserv.xyz
@@ -8733,6 +8743,7 @@
 0.0.0.0 inforug.com
 0.0.0.0 infoseck.com
 0.0.0.0 infrapu.sh
+0.0.0.0 js.wpadmngr.com
 0.0.0.0 moneymsg.com
 0.0.0.0 msgbaby.com
 0.0.0.0 msgbrand.com
@@ -8761,24 +8772,34 @@
 0.0.0.0 planetmsg.com
 0.0.0.0 premsg.com
 0.0.0.0 usamsg.com
-0.0.0.0 js.wpadmngr.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # StripCDN
-# 88.208.55.28
+# 104.16.61.52
+# 104.16.62.52
+# 104.17.7.65
+# 104.17.8.65
+# 104.19.128.104
+# 104.19.129.104
+# 104.19.244.6
+# 104.31.112.68
 # 152.195.32.70
-0.0.0.0 c-origin.strpst.com
-0.0.0.0 cs905.wac.systemcdn.net
-0.0.0.0 img-eu.stripcdn.com
-0.0.0.0 img.stripcdn.com
-0.0.0.0 st.stripcdn.com
-0.0.0.0 video-thumbs.stripcdn.com
-0.0.0.0 wh.stripcdn.com
+# 88.208.55.28
+# Regex for Pi-Hole or similar environment: \.strpst\.com$ & \.stripcdn\.com$
+0.0.0.0 stripst.com
+0.0.0.0 stripcdn.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Terk.nl
 0.0.0.0 ads.ikwauek.com
 0.0.0.0 adserver.ikwauek.com
 0.0.0.0 eu-adsrv.rtbsuperhub.com
-0.0.0.0 pixelsrvdmn.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Xhamster.com
+# Regex for Pi-Hole or similar environment: \.xhamsterlive\.com$
+0.0.0.0 cnt.xhamster.com
+0.0.0.0 collector.xhamster.com
+0.0.0.0 comet.sc-apps.com
+0.0.0.0 comet.xhamsterlive.com
+0.0.0.0 sc-apps.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Xtapes.to [Adsterra and AdSpyGlass]
 # 109.206.181.2 IP of interest [zvideoporn.com]
