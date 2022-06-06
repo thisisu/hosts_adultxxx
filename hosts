@@ -18,7 +18,7 @@
 # 198.134.112.244
 # 213.174.153.229
 # 213.174.153.231
-# Regex for Pi-Hole or similar environment: ^pl[0-9]{6,8}\.[a-z]{3,}(?:u(?:r|s)a|content|revenue|network|cpm|gate|clouds|html\.com$
+# Regex for Pi-Hole or similar environment: ^pl[0-9]{6,8}\.[a-z]{3,}(?:u(?:r|s)a|content|revenue|network|cpm|gate|clouds|html)\.com$
 0.0.0.0 00ajwfx7g882.com
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 05xz0h2xo799.com
@@ -8793,7 +8793,7 @@
 0.0.0.0 adserver.ikwauek.com
 0.0.0.0 eu-adsrv.rtbsuperhub.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Xhamster.com
+# Xhamster.com [doppiocdn.com]
 # Regex for Pi-Hole or similar environment: \.xhamsterlive\.com$
 0.0.0.0 cnt.xhamster.com
 0.0.0.0 collector.xhamster.com
