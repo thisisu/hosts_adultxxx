@@ -8782,6 +8782,8 @@
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Xtapes.to [Adsterra and AdSpyGlass]
 # 109.206.181.2 IP of interest [zvideoporn.com]
+# 109.206.175.85 IP of interest [???]
+# Regex for Pi-Hole or similar environment: \.soft-com\.biz$
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 0i.iqostaiwan.com
 0.0.0.0 1.gotrkinp.com
