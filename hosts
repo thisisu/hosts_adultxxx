@@ -7491,21 +7491,15 @@
 # Biqle.com [Uses AdsTerra]
 0.0.0.0 dsstrk.com
 0.0.0.0 hw-cdn2.contentabc.com
-0.0.0.0 llahnch259.com
-0.0.0.0 ta3nfsordd.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Biqle.ru ==> Biqle.org [Uses AdsTerra]
-0.0.0.0 01mspmd5yalky8.com
-0.0.0.0 5nt1gx7o57.com
 0.0.0.0 6moxhf9rmm.com
 0.0.0.0 a.adtng.com
 0.0.0.0 addresseepaper.com
-0.0.0.0 baradoot.com
 0.0.0.0 brochloemus.info
 0.0.0.0 browserr.top
 0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 counter.yadro.ru
-0.0.0.0 cttghjfhsw.com
 0.0.0.0 dgafgadsgkjg.top
 0.0.0.0 distoryrussion.info
 0.0.0.0 edassiumw.xyz
@@ -7514,11 +7508,8 @@
 0.0.0.0 htopensationclie.info
 0.0.0.0 ie8eamus.com
 0.0.0.0 keepinfit.net
-0.0.0.0 m328ii38yg76vw.com
-0.0.0.0 n13x4nfw8frika.com
 0.0.0.0 nbf9b5aurl.com
 0.0.0.0 olicemanented.info
-0.0.0.0 pr0pgutf0hp089.com
 0.0.0.0 pushnotifications.click
 0.0.0.0 rillagesrement.info
 0.0.0.0 risedwoman.info
@@ -7533,7 +7524,6 @@
 0.0.0.0 twrences.xyz
 0.0.0.0 venetrigni.com
 0.0.0.0 volvejudgetneig.info
-0.0.0.0 wk4x5rdtoz2tn0.com
 0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 xacersconceptin.info
 0.0.0.0 xactivessoviet.info
@@ -7582,7 +7572,6 @@
 0.0.0.0 ambeersporkies.com
 0.0.0.0 ampdaisbras.com
 0.0.0.0 amuckstyvain.com
-0.0.0.0 ak.hetaruvg.com
 0.0.0.0 an.ayahtyros.com
 0.0.0.0 anamaembush.com
 0.0.0.0 anansycoses.com
@@ -8582,7 +8571,6 @@
 0.0.0.0 delivery.impressionmonster.com
 0.0.0.0 delivery.porn.com
 0.0.0.0 socketviking.net
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Pornflip.com
 0.0.0.0 cdn-img1.statserv.net
 0.0.0.0 cdn-us-vid1.statserv.net
@@ -8925,9 +8913,9 @@
 # 152.195.32.70
 # 88.208.55.28
 # Regex for Pi-Hole or similar environment: \.strpst\.com$ & \.stripcdn\.com$
+0.0.0.0 go.stripchat.com
 0.0.0.0 stripst.com
 0.0.0.0 stripcdn.com
-0.0.0.0 go.stripchat.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Terk.nl
 0.0.0.0 ads.ikwauek.com
@@ -9016,7 +9004,6 @@
 0.0.0.0 edge1-us-priority.akamacdn.com
 0.0.0.0 emogfsex.com
 0.0.0.0 events.tubecup.org
-0.0.0.0 faracoon.com
 0.0.0.0 fbshares.club
 0.0.0.0 forads.pro
 0.0.0.0 frap.frap.site
@@ -9105,14 +9092,12 @@
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Youfreeporntube.com
 0.0.0.0 ads2.contentabc.com
-0.0.0.0 badspads.com
 0.0.0.0 browsers.support
 0.0.0.0 dcba.popcash.net
 0.0.0.0 serve.popads.net
 0.0.0.0 vipporns1.xyz
 0.0.0.0 www.xadsmart.com
 0.0.0.0 xadsmart.com
-0.0.0.0 yqezqofkb1nnmz.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Social Media / Miscellaneous
 # 208.88.225.119 [unknown ad network. leaning towards clickadu]
@@ -9485,7 +9470,6 @@
 0.0.0.0 pureporner.com
 0.0.0.0 push.affiliatetracker.io
 0.0.0.0 pussypinch.com
-0.0.0.0 px.ads.linkedin.com
 0.0.0.0 pykezofa.com
 0.0.0.0 rantanmedia.com
 0.0.0.0 rar.maxtrackmax.net
