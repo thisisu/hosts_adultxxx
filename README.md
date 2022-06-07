@@ -39,3 +39,12 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Xvideos.com
 -  YouFreePornTube.com
 -  Social Media / Miscellaneous / Unknowns / Experimentals
+
+In order to use this hosts file, you should first back up your existing one located at : C:\Windows\System32\drivers\etc
+Now download the "hosts" file within this branch and paste it into: C:\Windows\System32\drivers\etc
+Afterwards, you should flush your DNS settings by opening a command prompt window: windows key + r) ==> CMD ==> enter
+Type the following into the command line window: ipconfig /flushdns
+You should now be set for a safer browser experience.
+I've also included some regular expressions to be used within Pi-Hole if you'd like. I've been using them without an issue but I would love additional testers and feedback to make sure it's safe for others' setups as well.
+
+Thanks for looking into this project
