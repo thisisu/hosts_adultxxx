@@ -7382,6 +7382,21 @@
 0.0.0.0 twinrdsrv.com
 0.0.0.0 www.go.goadserver.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Hubble Traffic [tube8, redtube, spankwire, +++]
+0.0.0.0 anx.hubxt.com
+0.0.0.0 any.hubxt.com
+0.0.0.0 asdpoi.com
+0.0.0.0 ht.pornhub.com
+0.0.0.0 ht.redtube.com
+0.0.0.0 ht.spankwire.com
+0.0.0.0 ht.tube8.com
+0.0.0.0 ht.youporn.com
+0.0.0.0 hubt.pornhub.com
+0.0.0.0 hubtraffic.com
+0.0.0.0 hubxt.com
+0.0.0.0 widgets.asdpoi.com
+0.0.0.0 www.hubtraffic.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # JuicyAds
 0.0.0.0 adserver.juicyads.com
 0.0.0.0 poweredby.jads.co
