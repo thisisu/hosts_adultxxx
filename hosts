@@ -8947,6 +8947,8 @@
 0.0.0.0 go.xhamster.com
 0.0.0.0 sc-apps.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Xnxx.com [looks like xvideos clone]
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Xtapes.to [Adsterra and AdSpyGlass]
 # 109.206.181.2 IP of interest [zvideoporn.com]
 # 109.206.175.85 IP of interest [???]
@@ -9103,8 +9105,8 @@
 # Xvideos.com
 0.0.0.0 cdnegc.trafficfactory.biz
 0.0.0.0 iwanttodeliver.com
-0.0.0.0 rpc-php.trafficfactory.biz
-0.0.0.0 www.iwanttodeliver.com
+0.0.0.0 rpc-php.trafficfactory.biz # also at xnxx.com
+0.0.0.0 www.iwanttodeliver.com # also at xnxx.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Youfreeporntube.com [www.vipporns1.xyz]
 0.0.0.0 ads2.contentabc.com
@@ -9116,6 +9118,9 @@
 0.0.0.0 vipporns1.xyz
 0.0.0.0 www.xadsmart.com
 0.0.0.0 xadsmart.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Youporn.com [Part of Hubble traffic]
+0.0.0.0 media.trafficjunky.net
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Social Media / Miscellaneous
 # 208.88.225.119 [unknown ad network. leaning towards clickadu]
