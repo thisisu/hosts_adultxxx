@@ -5,10 +5,11 @@ More porn sites to analyze are welcome so just shoot me a message and I'll work 
 So far the following porn sites are monitored. The goal here is to block ads and redirects while not breaking the video playback. Some sites may attempt to prompt you to turn off your adblocker or remove your VPN if you can't see a video. I do not recommend this and would just try a different site instead.
 
 -  Adsterra Advertising Network
--  ClickAdu, formerly Propeller Ads
--  Syndication / ExoClick / RealSrv / GoAdServer
+-  BuyMedia Advertising Network
+-  ClickAdu / Propeller Ads
 -  JuicyAds
--  BuyMedia AdNetwork
+-  Hilltop Ads
+-  Syndication / ExoClick / RealSrv / GoAdServer
 -  Biqle.com
 -  Biqle.ru
 -  Biqle.org
@@ -20,8 +21,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  GoodPorn.to
 -  GoodPorn.se
 -  Gotporn.com
--  HillTop Ads
--  LiveJasmin
+-  Livejasmin
 -  Netfapx.com
 -  Noodlemagazine.com
 -  Playvids.com
@@ -32,12 +32,14 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Porntrex.com
 -  Pornve.com
 -  Pornwiss.com
--  Stripchat / StripCDN
+-  Stripchat / Stripcdn
 -  Terk.nl
 -  Xhamster.com
+-  Xnxx.com
 -  Xtapes.to
 -  Xvideos.com
--  YouFreePornTube.com
+-  Youfreeporntube.com
+-  Youporn.com
 -  Social Media / Miscellaneous / Unknowns / Experimentals
 
 In order to use this hosts file, you should first back up your existing one located at : <b>C:\Windows\System32\drivers\etc</b>
