@@ -7,8 +7,8 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Adsterra Advertising Network
 -  BuyMedia Advertising Network
 -  ClickAdu / Propeller Ads
--  JuicyAds
 -  Hilltop Ads
+-  JuicyAds
 -  Syndication / ExoClick / RealSrv / GoAdServer
 -  Biqle.com
 -  Biqle.ru
@@ -24,6 +24,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Livejasmin
 -  Netfapx.com
 -  Noodlemagazine.com
+-  Onlyfullporn.video
 -  Playvids.com
 -  Porn.com
 -  Pornhits.com
