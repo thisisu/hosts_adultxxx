@@ -8577,9 +8577,12 @@
 0.0.0.0 track.fabuloustrck.com
 0.0.0.0 xyz0k4gfs.xyz
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Onlyfullporn.video [dood.pm - Uses AdsTerra and ClickAdu]
+# Onlyfullporn.video [dood.pm & pornjustx.com - Uses AdsTerra and ClickAdu]
 # 131.153.42.225 IP of interest
 # Regex for Pi-hole or similar environment: \.prpops\.com$ & \.prwidgets\.com$
+0.0.0.0 prpops.com
+0.0.0.0 trafiq.trade
+0.0.0.0 trafiq.party
 0.0.0.0 d.6xx9.xyz
 0.0.0.0 d.9x12.xyz
 0.0.0.0 d.9xx6.xyz
@@ -8610,7 +8613,6 @@
 0.0.0.0 d.x6x9x.xyz
 0.0.0.0 d.xx11.xyz
 0.0.0.0 d.xx12.xyz
-0.0.0.0 pornjustx.com
 0.0.0.0 r.6xx9.xyz
 0.0.0.0 r.9x12.xyz
 0.0.0.0 r.9xx6.xyz
