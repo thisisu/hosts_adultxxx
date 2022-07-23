@@ -9014,6 +9014,7 @@
 # 88.208.55.28
 # Regex for Pi-hole or similar environment: \.strpst\.com$ & \.stripcdn\.com$
 0.0.0.0 go.stripchat.com
+0.0.0.0 go.xlivrdr.com
 0.0.0.0 stripst.com
 0.0.0.0 stripcdn.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
