@@ -38,6 +38,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Stripchat / Stripcdn
 -  Syndication / ExoClick / RealSrv / GoAdServer
 -  Terk.nl
+-  Vueey.com
 -  Xhamster.com
 -  Xnxx.com
 -  Xtapes.to
