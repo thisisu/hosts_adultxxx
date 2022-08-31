@@ -11,7 +11,9 @@
 # 192.243.59.13
 # 192.243.59.20
 # 192.243.61.225
+# 192.243.61.226
 # 192.243.61.227
+# 192.243.61.228
 # 198.134.112.241
 # 198.134.112.242
 # 198.134.112.243
@@ -19,6 +21,14 @@
 # 213.174.153.229
 # 213.174.153.231
 # Regex for Pi-hole or similar environment: ^pl[0-9]{6,8}\.[a-z]{3,}(?:u(?:r|s)a|content|revenue|network|cpm|gate|clouds|html)\.com$
+0.0.0.0 bargainwant.com
+0.0.0.0 blinktowel.com
+0.0.0.0 blueomatic.com
+0.0.0.0 casualproof.com
+0.0.0.0 fibbermedia.com
+0.0.0.0 mustcoast.com
+0.0.0.0 propersuitcase.com
+0.0.0.0 semidapt.com
 0.0.0.0 00ajwfx7g882.com
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 050y9lhe8p.com
@@ -6003,8 +6013,8 @@
 # 109.206.162.83
 # 109.206.164.148
 # 139.45.196.75
-# 139.45.197.236
 # 139.45.197.152
+# 139.45.197.236
 # 139.45.197.237
 # 139.45.197.238
 # 139.45.197.239
