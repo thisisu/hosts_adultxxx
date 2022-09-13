@@ -35,6 +35,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Pornve.com
 -  Pornwiss.com
 -  Social Media / Miscellaneous / Unknowns / Experimentals
+-  Spankbang.com
 -  Stripchat / Stripcdn
 -  Syndication / ExoClick / RealSrv / GoAdServer
 -  Terk.nl
@@ -43,6 +44,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Xnxx.com
 -  Xtapes.to
 -  Xvideos.com
+-  Yesporn.vip
 -  Youfreeporntube.com
 -  Youporn.com
 
