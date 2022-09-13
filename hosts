@@ -7,6 +7,7 @@
 # ::1 localhost
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Adsterra Advertising Network
+# 173.233.137.60 Subject: CN=passeura.com
 # 192.243.59.12
 # 192.243.59.13
 # 192.243.59.20
@@ -21,14 +22,6 @@
 # 213.174.153.229
 # 213.174.153.231
 # Regex for Pi-hole or similar environment: ^pl[0-9]{6,8}\.[a-z]{3,}(?:u(?:r|s)a|content|revenue|network|cpm|gate|clouds|html)\.com$
-0.0.0.0 bargainwant.com
-0.0.0.0 blinktowel.com
-0.0.0.0 blueomatic.com
-0.0.0.0 casualproof.com
-0.0.0.0 fibbermedia.com
-0.0.0.0 mustcoast.com
-0.0.0.0 propersuitcase.com
-0.0.0.0 semidapt.com
 0.0.0.0 00ajwfx7g882.com
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 050y9lhe8p.com
@@ -716,6 +709,7 @@
 0.0.0.0 bankerconcludeshare.com
 0.0.0.0 bankingconcede.com
 0.0.0.0 bankingfiginland.com
+0.0.0.0 banquetunarmedgrater.com
 0.0.0.0 bantercubicle.com
 0.0.0.0 baptismmattressstoppage.com
 0.0.0.0 barbarapaternal.com
@@ -876,6 +870,7 @@
 0.0.0.0 blendblisterwallace.com
 0.0.0.0 blessingsome.com
 0.0.0.0 blindlyidle.com
+0.0.0.0 blinktowel.com
 0.0.0.0 blisscleopatra.com
 0.0.0.0 blissfuldes.com
 0.0.0.0 blisterpompey.com
@@ -1041,6 +1036,7 @@
 0.0.0.0 burglardefinitelyresolved.com
 0.0.0.0 burglarmottoclotted.com
 0.0.0.0 burialgerminatebizarre.com
+0.0.0.0 burlydeclined.com
 0.0.0.0 burntsalvationthirteen.com
 0.0.0.0 burstegotisticalcreepy.com
 0.0.0.0 burstingdipper.com
@@ -1143,6 +1139,7 @@
 0.0.0.0 cassetteflask.com
 0.0.0.0 cassettelancefriday.com
 0.0.0.0 cassettepreceding.com
+0.0.0.0 casualproof.com
 0.0.0.0 cataractsallydeserves.com
 0.0.0.0 catastropheillusive.com
 0.0.0.0 catastrophetray.com
@@ -2228,6 +2225,7 @@
 0.0.0.0 faithfullyfridge.com
 0.0.0.0 faithknotpositive.com
 0.0.0.0 faithlessmodifyrepublican.com
+0.0.0.0 familiarkindlyshuffle.com
 0.0.0.0 familyborn.com
 0.0.0.0 faminedealergirl.com
 0.0.0.0 farmerdaybreaknote.com
@@ -2284,6 +2282,7 @@
 0.0.0.0 fg09t.com
 0.0.0.0 fgddl9szdof7.com
 0.0.0.0 fh259by01r25.com
+0.0.0.0 fibbermedia.com
 0.0.0.0 fibfever.com
 0.0.0.0 fictiongroin.com
 0.0.0.0 fieldbilly.com
@@ -2383,6 +2382,7 @@
 0.0.0.0 foresterabdomenhence.com
 0.0.0.0 foreverhealthsculptor.com
 0.0.0.0 foreverstopper.com
+0.0.0.0 forgerylimit.com
 0.0.0.0 forgetfulpromptlyappointment.com
 0.0.0.0 forgetinnumerablelag.com
 0.0.0.0 forgivencardiac.com
@@ -2595,6 +2595,7 @@
 0.0.0.0 grabbedyearhireling.com
 0.0.0.0 gracelessaffected.com
 0.0.0.0 graduateelbows.com
+0.0.0.0 graduatewonderentreaty.com
 0.0.0.0 graduationconstraintjoyous.com
 0.0.0.0 graduationstoryladen.com
 0.0.0.0 graduationtapingicicle.com
@@ -2608,6 +2609,7 @@
 0.0.0.0 grandfatherfling.com
 0.0.0.0 grandmotherfastereater.com
 0.0.0.0 grandpadreary.com
+0.0.0.0 grandsupple.com
 0.0.0.0 graniteacquitcharacteristic.com
 0.0.0.0 grannysteer.com
 0.0.0.0 grantedpigsunborn.com
@@ -2636,6 +2638,7 @@
 0.0.0.0 grovebrainwashtroubles.com
 0.0.0.0 growncurlyunderpants.com
 0.0.0.0 grudgeinjunctionretirement.com
+0.0.0.0 grudgemotivate.com
 0.0.0.0 grudgewallet.com
 0.0.0.0 grumbleadulate.com
 0.0.0.0 grumbleoh.com
@@ -3318,6 +3321,7 @@
 0.0.0.0 limelightcopper.com
 0.0.0.0 limelightdecent.com
 0.0.0.0 limevisitedinaugurate.com
+0.0.0.0 limitationvolleyballdejected.com
 0.0.0.0 limitedtaintcloseness.com
 0.0.0.0 limitlessexterminator.com
 0.0.0.0 limpattemptnoose.com
@@ -3352,6 +3356,7 @@
 0.0.0.0 locationivanstutter.com
 0.0.0.0 lockdowncautionmentally.com
 0.0.0.0 lockerstagger.com
+0.0.0.0 lockfireshimself.com
 0.0.0.0 lockingadmitted.com
 0.0.0.0 lockscost.com
 0.0.0.0 loftygreater.com
@@ -3629,6 +3634,7 @@
 0.0.0.0 munchenviableski.com
 0.0.0.0 murderassuredness.com
 0.0.0.0 mustardchagrininjured.com
+0.0.0.0 mustcoast.com
 0.0.0.0 mutecrane.com
 0.0.0.0 mutenessdollyheadlong.com
 0.0.0.0 mutteredslashfolly.com
@@ -3784,6 +3790,7 @@
 0.0.0.0 obefjbb4mykw.com
 0.0.0.0 obesewaterfall.com
 0.0.0.0 obeyroman.com
+0.0.0.0 obituaryfuneral.com
 0.0.0.0 objectdressed.com
 0.0.0.0 objectedsheetrobin.com
 0.0.0.0 objectlesscowerfuzzy.com
@@ -3943,6 +3950,7 @@
 0.0.0.0 partyguarantee.com
 0.0.0.0 passagefacingdime.com
 0.0.0.0 passagesgirliecalculation.com
+0.0.0.0 passedofferundertake.com
 0.0.0.0 passenvyexisting.com
 0.0.0.0 passeseuro.com
 0.0.0.0 passeura.com
@@ -4016,6 +4024,7 @@
 0.0.0.0 permittedswift.com
 0.0.0.0 perpetratoronpour.com
 0.0.0.0 perpetualprovoke.com
+0.0.0.0 perryvolleyball.com
 0.0.0.0 perseverancekaleidoscopefinance.com
 0.0.0.0 persistarcticthese.com
 0.0.0.0 personifyallege.com
@@ -4041,6 +4050,7 @@
 0.0.0.0 phenomenonattorney.com
 0.0.0.0 philipblemishaccessory.com
 0.0.0.0 phoneboothslender.com
+0.0.0.0 phosphatepossible.com
 0.0.0.0 photographiccreche.com
 0.0.0.0 photographingadjust.com
 0.0.0.0 photographingmake.com
@@ -4241,6 +4251,7 @@
 0.0.0.0 pronunciationspecimens.com
 0.0.0.0 proofthug.com
 0.0.0.0 propelslaverybenevolent.com
+0.0.0.0 propersuitcase.com
 0.0.0.0 prophecyrehabilitationcardboard.com
 0.0.0.0 prophetachybrief.com
 0.0.0.0 proposedpartly.com
@@ -4366,7 +4377,9 @@
 0.0.0.0 razorthereforeargon.com
 0.0.0.0 reactnurseryjoin.com
 0.0.0.0 reallyteenageotter.com
+0.0.0.0 reapinject.com
 0.0.0.0 rearcocoa.com
+0.0.0.0 reasonablelandmark.com
 0.0.0.0 rebelliousinflame.com
 0.0.0.0 recalledriddle.com
 0.0.0.0 recastcompellease.com
@@ -4413,6 +4426,7 @@
 0.0.0.0 refuserates.com
 0.0.0.0 refutationexcessiveglamour.com
 0.0.0.0 refutationoverwhelming.com
+0.0.0.0 refutationtiptoe.com
 0.0.0.0 regainthong.com
 0.0.0.0 regardedsaid.com
 0.0.0.0 regardpenguin.com
@@ -4477,6 +4491,7 @@
 0.0.0.0 rescuephrase.com
 0.0.0.0 resentproduces.com
 0.0.0.0 reservoircourthouse.com
+0.0.0.0 resetoccultkeeper.com
 0.0.0.0 residelikingminister.com
 0.0.0.0 residenceseeingstanding.com
 0.0.0.0 residentfestivitycarbonate.com
@@ -4654,6 +4669,7 @@
 0.0.0.0 saltycarboninsulting.com
 0.0.0.0 saluteuneven.com
 0.0.0.0 salvageforestall.com
+0.0.0.0 sandwichesinstinctive.com
 0.0.0.0 sanelieutenantdied.com
 0.0.0.0 sankaudacityrefine.com
 0.0.0.0 sapclasped.com
@@ -4736,6 +4752,7 @@
 0.0.0.0 selfservicefabricdisdain.com
 0.0.0.0 sellerbackstagejolly.com
 0.0.0.0 sellingprostituteinformant.com
+0.0.0.0 semidapt.com
 0.0.0.0 seminaraileenreschedule.com
 0.0.0.0 seminarlardeyelid.com
 0.0.0.0 senditselforientation.com
@@ -4826,6 +4843,7 @@
 0.0.0.0 sickmakes.com
 0.0.0.0 sicksparkle.com
 0.0.0.0 sidelinesibilant.com
+0.0.0.0 siegepolitical.com
 0.0.0.0 sieveinterposed.com
 0.0.0.0 siftshortagepopped.com
 0.0.0.0 signcalamity.com
@@ -4860,6 +4878,7 @@
 0.0.0.0 skillpropulsion.com
 0.0.0.0 skillravageintrusive.com
 0.0.0.0 skinnerinadmissiblegreeted.com
+0.0.0.0 skipdearbeautify.com
 0.0.0.0 slabshookwasted.com
 0.0.0.0 slahpxqb6wto.com
 0.0.0.0 slaverylavatoryecho.com
@@ -5305,6 +5324,7 @@
 0.0.0.0 tightslowingpredictable.com
 0.0.0.0 tiltgardenheadlight.com
 0.0.0.0 tiltleaden.com
+0.0.0.0 timeoutsalaryhaphazard.com
 0.0.0.0 timerseeming.com
 0.0.0.0 timesroadmapwed.com
 0.0.0.0 timingaskew.com
@@ -5365,6 +5385,7 @@
 0.0.0.0 transientspecialowl.com
 0.0.0.0 translatecomicloss.com
 0.0.0.0 translationerrandviolin.com
+0.0.0.0 trappedtree.com
 0.0.0.0 trashsierra.com
 0.0.0.0 travelingoutcomeautomatic.com
 0.0.0.0 travelingregardedoccasioned.com
@@ -5824,6 +5845,7 @@
 0.0.0.0 www.gaietyastonished.com
 0.0.0.0 www.gatetodisplaycontent.com
 0.0.0.0 www.granddaughterfashioned.com
+0.0.0.0 www.grandsupple.com
 0.0.0.0 www.grovebrainwashtroubles.com
 0.0.0.0 www.hallucinatecompute.com
 0.0.0.0 www.harmonycanyon.com
@@ -5941,6 +5963,7 @@
 0.0.0.0 www.visitingtoelargely.com
 0.0.0.0 www.weakradiator.com
 0.0.0.0 www.wolvescuckooship.com
+0.0.0.0 www.yogawrite.com
 0.0.0.0 wzdzht7am5.com
 0.0.0.0 wzk5ndpc3x05.com
 0.0.0.0 x3w7lvezss.com
@@ -5974,6 +5997,7 @@
 0.0.0.0 yjwtolgjjeky.com
 0.0.0.0 ymwcfopsie.com
 0.0.0.0 ynhhgr2zen.com
+0.0.0.0 yogawrite.com
 0.0.0.0 yogurtrole.com
 0.0.0.0 yonderprodigy.com
 0.0.0.0 youngerpoem.com
@@ -6325,6 +6349,7 @@
 0.0.0.0 ak.prelandtest01.com
 0.0.0.0 akaiksots.com
 0.0.0.0 akbpwhdbdgtlilq.com
+0.0.0.0 akdcunfxex.com
 0.0.0.0 akdvblrnmd.com
 0.0.0.0 akeaprhmebxfj.com
 0.0.0.0 akfftagyhxn.com
@@ -6681,6 +6706,7 @@
 0.0.0.0 bfrafwkjhdanv.com
 0.0.0.0 bfsyqpahblenxy.com
 0.0.0.0 bfwckgmgkaq.com
+0.0.0.0 bfxytxdpnk.com
 0.0.0.0 bfyufultbvlyrg.com
 0.0.0.0 bg4nxu2u5t.com
 0.0.0.0 bghmpnsktuwjob.com
@@ -7207,6 +7233,7 @@
 0.0.0.0 cwlorewmgxgbvy.com
 0.0.0.0 cwnfkbio.xyz
 0.0.0.0 cwqdotpem.com
+0.0.0.0 cwqljsecvr.com
 0.0.0.0 cwrphprgubdllo.com
 0.0.0.0 cwthnibumpjtvv.com
 0.0.0.0 cxbweijrfpdwhk.com
@@ -7340,6 +7367,7 @@
 0.0.0.0 dfhtopkyk.com
 0.0.0.0 dfnadhbgacaia.com
 0.0.0.0 dfqgebgtj.com
+0.0.0.0 dfyouolsdq.com
 0.0.0.0 dgaemgolntonwi.xyz
 0.0.0.0 dgcqclnxecvfm.com
 0.0.0.0 dglmpnvgrsuilkj.com
@@ -7536,6 +7564,8 @@
 0.0.0.0 exwotics6heomrthaoi4r.com
 0.0.0.0 eyenider.com
 0.0.0.0 ezhefg9gbhgh10.com
+0.0.0.0 ezjhhapcoe.com
+0.0.0.0 ezyenrwcmo.com
 0.0.0.0 f3udfa7nfguhni.com
 0.0.0.0 f853150605ccb.com
 0.0.0.0 f9c88be.com
@@ -7607,6 +7637,7 @@
 0.0.0.0 fsitel.com
 0.0.0.0 fujigar.com
 0.0.0.0 furmnas.com
+0.0.0.0 fykdxpdnhy.com
 0.0.0.0 g5rillh2awn8.com
 0.0.0.0 galopelikeantelope.com
 0.0.0.0 ganemur.com
@@ -7617,6 +7648,7 @@
 0.0.0.0 gemorul.com
 0.0.0.0 get2m5sgstohne.com
 0.0.0.0 getpdaiddaily.com
+0.0.0.0 getrpahqya.com
 0.0.0.0 getsurv2you.com
 0.0.0.0 getsurv2you.net
 0.0.0.0 getsurv2you.org
@@ -7686,6 +7718,7 @@
 0.0.0.0 go.tpbdir.com
 0.0.0.0 go.youlamedia.com
 0.0.0.0 go6shde9nj2itle.com
+0.0.0.0 godpvqnszo.com
 0.0.0.0 gogiersan.com
 0.0.0.0 gooblesdd.com
 0.0.0.0 goods2you.net
@@ -7760,8 +7793,10 @@
 0.0.0.0 iddjpop.com
 0.0.0.0 iddpop.com
 0.0.0.0 idiafix.com
+0.0.0.0 idtzczpjqc.com
 0.0.0.0 iendoo.com
 0.0.0.0 ietyofedinj89yewtburgh.com
+0.0.0.0 iicsxxkdcy.com
 0.0.0.0 ilusors.com
 0.0.0.0 ilyf4amifh.com
 0.0.0.0 img-cdn.pushup.wtf
@@ -7886,6 +7921,7 @@
 0.0.0.0 kuloffer.com
 0.0.0.0 kurlichan.com
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
+0.0.0.0 kximxxzsva.com
 0.0.0.0 kxnggkh2nj.com
 0.0.0.0 la3c05lr3o.com
 0.0.0.0 laf1ma3eban85ana.com
@@ -7901,6 +7937,7 @@
 0.0.0.0 lassampy.com
 0.0.0.0 lauhoosh.net
 0.0.0.0 lavando2scas1hh1.com
+0.0.0.0 lbbxuenncq.com
 0.0.0.0 ledrapti.net
 0.0.0.0 legerikath.com
 0.0.0.0 leginsi2leopard1oviy1hf.com
@@ -7955,6 +7992,7 @@
 0.0.0.0 luvaihoo.com
 0.0.0.0 luxlnk.com
 0.0.0.0 lwonclbench.com
+0.0.0.0 lxsodqyysz.com
 0.0.0.0 lzxdx24yib.com
 0.0.0.0 m45assachucsh9w7etts.com
 0.0.0.0 ma2gs3wne3gfej70osium.com
@@ -8023,6 +8061,7 @@
 0.0.0.0 n.gooods4you.com
 0.0.0.0 n.kuloffer.com
 0.0.0.0 n.luloffer.com
+0.0.0.0 naazrghwxj.com
 0.0.0.0 naewynn.com
 0.0.0.0 nan46ysangt28eec.com
 0.0.0.0 natapea.com
@@ -8078,6 +8117,7 @@
 0.0.0.0 nuleedsa.net
 0.0.0.0 nupoot.com
 0.0.0.0 nuroflem.com
+0.0.0.0 nvqjpzxufp.com
 0.0.0.0 oackoubs.com
 0.0.0.0 oagnatch.com
 0.0.0.0 oaksafta.com
@@ -8205,6 +8245,7 @@
 0.0.0.0 percephonefruit70.com
 0.0.0.0 perceuslok071.com
 0.0.0.0 perigshfnon.com
+0.0.0.0 pfewuzbtkr.com
 0.0.0.0 phaurtuh.net
 0.0.0.0 pheghoug.net
 0.0.0.0 phiriaxi.com
@@ -8216,6 +8257,7 @@
 0.0.0.0 pipeschannels.com
 0.0.0.0 pkhhyool.com
 0.0.0.0 platado.com
+0.0.0.0 plkatdmeje.com
 0.0.0.0 plugrushusa.dsp.wtf
 0.0.0.0 plutothejewel.com
 0.0.0.0 pn.dsp.wtf
@@ -8273,6 +8315,7 @@
 0.0.0.0 pusholympus.com
 0.0.0.0 pushup.wtf
 0.0.0.0 putbid.net
+0.0.0.0 pvykihatcb.com
 0.0.0.0 qa24ljic4i.com
 0.0.0.0 qamwm5o8dlgijte.com
 0.0.0.0 qarewien.com
@@ -8358,6 +8401,7 @@
 0.0.0.0 rurogar.com
 0.0.0.0 rusenov.com
 0.0.0.0 ryllae.com
+0.0.0.0 ryntmyhahy.com
 0.0.0.0 s3pe5ye7ri8a.com
 0.0.0.0 s4elk8ir1exrkc.com
 0.0.0.0 sa2m4buc5us.com
@@ -8367,6 +8411,7 @@
 0.0.0.0 saturim.com
 0.0.0.0 savefromad.net
 0.0.0.0 saylnk.com
+0.0.0.0 sbyqtugtfe.com
 0.0.0.0 scarletcashwi5.com
 0.0.0.0 scarofnght.com
 0.0.0.0 sciadopi5tysverticil1lata.com
@@ -8627,6 +8672,7 @@
 0.0.0.0 uruswan.com
 0.0.0.0 uselnk.com
 0.0.0.0 usounoul.com
+0.0.0.0 uuhvungdag.com
 0.0.0.0 v2.api.clickadu.com
 0.0.0.0 v2.panel.clickadu.com
 0.0.0.0 v3.api.clickadu.com
@@ -8665,6 +8711,7 @@
 0.0.0.0 vuftouks.com
 0.0.0.0 vugnubier.com
 0.0.0.0 vvcashpop.com
+0.0.0.0 vyfrxuytzn.com
 0.0.0.0 warswhitawe.com
 0.0.0.0 wawoarda.com
 0.0.0.0 wea5lkaf63loos8a.com
@@ -8681,6 +8728,7 @@
 0.0.0.0 whoostoo.net
 0.0.0.0 whowhipi.net
 0.0.0.0 whugesto.net
+0.0.0.0 wibtntmvox.com
 0.0.0.0 widow5blackfr.com
 0.0.0.0 wilslide.com
 0.0.0.0 windofaeolus.com
@@ -8688,6 +8736,7 @@
 0.0.0.0 winnerkur.com
 0.0.0.0 wirenth.com
 0.0.0.0 wizardmarndl.com
+0.0.0.0 wkqcnkstso.com
 0.0.0.0 wolqundera.com
 0.0.0.0 wonderhsjnsd.com
 0.0.0.0 wonderlandads.com
@@ -8699,6 +8748,7 @@
 0.0.0.0 wowebahugoo.com
 0.0.0.0 wowhugoo.com
 0.0.0.0 wowlnk.com
+0.0.0.0 wuzbhjpvsf.com
 0.0.0.0 ww2.ceesty.com
 0.0.0.0 ww2.clkmein.com
 0.0.0.0 ww2.corneey.com
@@ -8747,6 +8797,7 @@
 0.0.0.0 xineday.com
 0.0.0.0 xoredi.com
 0.0.0.0 xupdatevideos.com
+0.0.0.0 xwlketvkzf.com
 0.0.0.0 xxccdshj.com
 0.0.0.0 xxladu.com
 0.0.0.0 xxlargepop.com
@@ -8786,6 +8837,7 @@
 0.0.0.0 zhej78i1an8w6ceu.com
 0.0.0.0 zhulik2ne1voruy1d.com
 0.0.0.0 zikroarg.com
+0.0.0.0 zsbwoqpcxj.com
 0.0.0.0 zumzumar.com
 0.0.0.0 zunsoach.com
 0.0.0.0 zvetokr2hr8pcng09.com
@@ -9892,12 +9944,52 @@
 0.0.0.0 cams.whatadultswant.com
 0.0.0.0 click.jasmin.com
 0.0.0.0 clicks.memberclicks-mail.net
+0.0.0.0 comcreative.xlirdr.com
+0.0.0.0 comcreative.xlivrdr.com
+0.0.0.0 comcreative.xlrdr.com
+0.0.0.0 comgo.xlirdr.com
+0.0.0.0 comgo.xlivrdr.com
+0.0.0.0 comgo.xlrdr.com
+0.0.0.0 comgo.xlvirdr.com
+0.0.0.0 comgo.xxxviijmp.com
+0.0.0.0 comvideo.xlivrdr.com
 0.0.0.0 cradver.livejasmin.com
 0.0.0.0 crbbgate.com
 0.0.0.0 crbbjmp.com
 0.0.0.0 crcom.bimbim.com
 0.0.0.0 crcom.livejasmin.com
+0.0.0.0 creative.admjmp.com
+0.0.0.0 creative.alxbgo.com
+0.0.0.0 creative.ashhgo.com
+0.0.0.0 creative.bmbsgo.com
+0.0.0.0 creative.bshrdr.com
+0.0.0.0 creative.cmrdr.com
+0.0.0.0 creative.dmskgo.com
+0.0.0.0 creative.dmzjmp.com
+0.0.0.0 creative.dzhjmp.com
+0.0.0.0 creative.hpyrdr.com
+0.0.0.0 creative.julrdr.com
+0.0.0.0 creative.ktkjmp.com
+0.0.0.0 creative.leojmp.com
+0.0.0.0 creative.llyjmp.com
+0.0.0.0 creative.lxzrdr.com
+0.0.0.0 creative.mdyjmp.com
+0.0.0.0 creative.mgdjmp.com
+0.0.0.0 creative.mshago.com
+0.0.0.0 creative.rdfxgo.com
+0.0.0.0 creative.tmrjmp.com
+0.0.0.0 creative.xlirdr.com
+0.0.0.0 creative.xlivrdr.com
+0.0.0.0 creative.xlrdr.com
+0.0.0.0 creative.xlviiirdr.com
+0.0.0.0 creative.xlviirdr.com
+0.0.0.0 creative.xxxiijmp.com
+0.0.0.0 creative.xxxijmp.com
 0.0.0.0 creative.xxxivjmp.com
+0.0.0.0 creative.xxxjmp.com
+0.0.0.0 creative.xxxviiijmp.com
+0.0.0.0 creative.xxxvjmp.com
+0.0.0.0 creative.zybrdr.com
 0.0.0.0 crengate.com
 0.0.0.0 crentexgate.com
 0.0.0.0 crentgate.com
@@ -9915,10 +10007,6 @@
 0.0.0.0 crt.joyourself.com
 0.0.0.0 crt.liveprivates.com
 0.0.0.0 crt.livesex.com
-0.0.0.0 go.xlviiirdr.com
-0.0.0.0 go.xlivesex.com
-0.0.0.0 creative.tmrjmp.com
-0.0.0.0 go.ktkjmp.com 
 0.0.0.0 crt.livesexasian.com
 0.0.0.0 crt.lsawards.com
 0.0.0.0 crt.maturescam.com
@@ -9944,8 +10032,46 @@
 0.0.0.0 gaslleryn2.awemwh.com
 0.0.0.0 gaslleryn3.awemwh.com
 0.0.0.0 gateway.livesexbar.com
+0.0.0.0 go.admjmp.com
+0.0.0.0 go.alxbgo.com
+0.0.0.0 go.ashhgo.com
+0.0.0.0 go.bmbsgo.com
+0.0.0.0 go.bshrdr.com
+0.0.0.0 go.cmrdr.com
+0.0.0.0 go.dmskgo.com
+0.0.0.0 go.dmzjmp.com
+0.0.0.0 go.dzhjmp.com
+0.0.0.0 go.hpyrdr.com
+0.0.0.0 go.julrdr.com
 0.0.0.0 go.ktkjmp.com
+0.0.0.0 go.ktkjmp.com 
+0.0.0.0 go.leojmp.com
+0.0.0.0 go.llyjmp.com
+0.0.0.0 go.lxzrdr.com
+0.0.0.0 go.mdyjmp.com
+0.0.0.0 go.mgdjmp.com
+0.0.0.0 go.mshago.com
+0.0.0.0 go.my.club
+0.0.0.0 go.rdfxgo.com
+0.0.0.0 go.tmrjmp.com
+0.0.0.0 go.xhamster.com
+0.0.0.0 go.xlirdr.com
+0.0.0.0 go.xlivesex.com
+0.0.0.0 go.xlivrdr.com
+0.0.0.0 go.xlrdr.com
+0.0.0.0 go.xlviiirdr.com
+0.0.0.0 go.xlviirdr.com
+0.0.0.0 go.xlvirdr.com
+0.0.0.0 go.xxxiiijmp.com
+0.0.0.0 go.xxxiijmp.com
+0.0.0.0 go.xxxijmp.com
 0.0.0.0 go.xxxivjmp.com
+0.0.0.0 go.xxxjmp.com
+0.0.0.0 go.xxxviiijmp.com
+0.0.0.0 go.xxxviijmp.com
+0.0.0.0 go.xxxvijmp.com
+0.0.0.0 go.xxxvjmp.com
+0.0.0.0 go.zybrdr.com
 0.0.0.0 jmp.awempire.com
 0.0.0.0 jsmcrjmp.com
 0.0.0.0 jsmcrptjmp.com
@@ -10028,9 +10154,39 @@
 0.0.0.0 ptwmemd.com
 0.0.0.0 ptwmjmp.com
 0.0.0.0 pwmctl.com
+0.0.0.0 video.admjmp.com
+0.0.0.0 video.alxbgo.com
+0.0.0.0 video.ashhgo.com
+0.0.0.0 video.bmbsgo.com
+0.0.0.0 video.bshrdr.com
+0.0.0.0 video.dmskgo.com
+0.0.0.0 video.dmzjmp.com
+0.0.0.0 video.dzhjmp.com
+0.0.0.0 video.hpyrdr.com
+0.0.0.0 video.julrdr.com
+0.0.0.0 video.ktkjmp.com
+0.0.0.0 video.leojmp.com
+0.0.0.0 video.llyjmp.com
+0.0.0.0 video.lxzrdr.com
+0.0.0.0 video.mdyjmp.com
+0.0.0.0 video.mgdjmp.com
+0.0.0.0 video.mshago.com
+0.0.0.0 video.rdfxgo.com
+0.0.0.0 video.tmrjmp.com
+0.0.0.0 video.xlirdr.com
+0.0.0.0 video.xlivrdr.com
+0.0.0.0 video.xlrdr.com
+0.0.0.0 video.xlviiirdr.com
+0.0.0.0 video.xlviirdr.com
+0.0.0.0 video.xxxiijmp.com
 0.0.0.0 video.xxxijmp.com
 0.0.0.0 video.xxxivjmp.com
+0.0.0.0 video.xxxjmp.com
+0.0.0.0 video.xxxviiijmp.com
+0.0.0.0 video.xxxvjmp.com
+0.0.0.0 video.zybrdr.com
 0.0.0.0 wmptctl.com
+0.0.0.0 www.go.xlviiirdr.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Netfapx.com [Uses AdsTerra]
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
@@ -10466,6 +10622,9 @@
 0.0.0.0 premsg.com
 0.0.0.0 usamsg.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Spankbang.com
+0.0.0.0 deliver.ptgncdn.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Stripchat
 # 104.16.61.52
 # 104.16.62.52
@@ -10666,6 +10825,10 @@
 0.0.0.0 iwanttodeliver.com
 0.0.0.0 rpc-php.trafficfactory.biz # also at xnxx.com
 0.0.0.0 www.iwanttodeliver.com # also at xnxx.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Yesporn.vip [dood.pm - Uses Adsterra and ClickAdu]
+0.0.0.0 acacdn.com
+0.0.0.0 secure.statcounter.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Youfreeporntube.com [www.vipporns1.xyz]
 0.0.0.0 ads2.contentabc.com
