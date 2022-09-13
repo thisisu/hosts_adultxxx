@@ -7,20 +7,25 @@
 # ::1 localhost
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Adsterra Advertising Network
+# 173.233.137.36 Subject: CN=passeura.com
+# 173.233.137.44 Subject: CN=passeura.com
+# 173.233.137.52 Subject: CN=passeura.com
 # 173.233.137.60 Subject: CN=passeura.com
-# 192.243.59.12
-# 192.243.59.13
-# 192.243.59.20
-# 192.243.61.225
-# 192.243.61.226
-# 192.243.61.227
-# 192.243.61.228
-# 198.134.112.241
-# 198.134.112.242
-# 198.134.112.243
-# 198.134.112.244
-# 213.174.153.229
-# 213.174.153.231
+# 173.233.137.60 Subject: CN=passeura.com
+# 173.233.139.164 Subject: CN=passeura.com
+# 192.243.59.12 Subject: CN=passeura.com
+# 192.243.59.13 Subject: CN=passeura.com
+# 192.243.59.20 Subject: CN=passeura.com 
+# 192.243.61.225 Subject: CN=passeura.com 
+# 192.243.61.226 Subject: CN=passeura.com 
+# 192.243.61.227 Subject: CN=passeura.com 
+# 192.243.61.228 Subject: CN=passeura.com 
+# 198.134.112.241 Subject: CN=passeura.com 
+# 198.134.112.242 Subject: CN=passeura.com 
+# 198.134.112.243 Subject: CN=passeura.com 
+# 198.134.112.244 Subject: CN=passeura.com 
+# 213.174.153.229 Subject: CN=2gybpaar.com
+# 213.174.153.231 Subject: CN=2gybpaar.com 
 # Regex for Pi-hole or similar environment: ^pl[0-9]{6,8}\.[a-z]{3,}(?:u(?:r|s)a|content|revenue|network|cpm|gate|clouds|html)\.com$
 0.0.0.0 00ajwfx7g882.com
 0.0.0.0 01mspmd5yalky8.com
@@ -6034,8 +6039,8 @@
 0.0.0.0 zzdb5p4upiug.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # ClickAdu
-# 109.206.162.83
-# 109.206.164.148
+# 109.206.162.83 Subject: CN=cpaconvtrk.net
+# 109.206.164.148 Subject: CN=1000porno.tv
 # 139.45.196.75
 # 139.45.197.152
 # 139.45.197.236
