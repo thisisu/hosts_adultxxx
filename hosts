@@ -9783,6 +9783,7 @@
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Gotporn.com [Uses Syndication / ExoClick / Realsrv]
 0.0.0.0 adservice.google.com
+0.0.0.0 cdn3-static-cf.gotporn.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 gotprofits.com
 0.0.0.0 gravityrd-services.com
@@ -10385,6 +10386,7 @@
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Pornone.com
 0.0.0.0 an.pornone.com
+0.0.0.0 as.sexad.net
 0.0.0.0 js.wpnsrv.com
 0.0.0.0 pornonelive.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -10838,11 +10840,12 @@
 0.0.0.0 zk.hot4k.org
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Xvideos.com
+0.0.0.0 cams.xvideos.com
 0.0.0.0 cdnegc.trafficfactory.biz
 0.0.0.0 iwanttodeliver.com
 0.0.0.0 rpc-php.trafficfactory.biz # also at xnxx.com
-0.0.0.0 www.iwanttodeliver.com # also at xnxx.com
 0.0.0.0 s.orbsrv.com
+0.0.0.0 www.iwanttodeliver.com # also at xnxx.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Yesporn.vip [dood.pm - Uses Adsterra and ClickAdu]
 0.0.0.0 acacdn.com
