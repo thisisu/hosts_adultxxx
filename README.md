@@ -47,6 +47,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Yesporn.vip
 -  Youfreeporntube.com
 -  Youporn.com
+-  Yespornplease.sexy
 
 
 In order to use this hosts file, you should first back up your existing one located at : <b>C:\Windows\System32\drivers\etc</b>
