@@ -10478,6 +10478,11 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Pornwild.com [Uses ExoClick / Syndication]
+0.0.0.0 ads.bullionyield.com
+0.0.0.0 impactserving.com
+0.0.0.0 www.gigacpmserv.com
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Pornwiss.com [Uses ClickAdu AND AdsTerra. Also lots of crap under these two IPs]
 # 188.34.134.68
 # 188.34.134.78
