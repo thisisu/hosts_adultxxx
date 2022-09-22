@@ -11,7 +11,6 @@
 # 173.233.137.44 Subject: CN=passeura.com
 # 173.233.137.52 Subject: CN=passeura.com
 # 173.233.137.60 Subject: CN=passeura.com
-# 173.233.137.60 Subject: CN=passeura.com
 # 173.233.139.164 Subject: CN=passeura.com
 # 192.243.59.12 Subject: CN=passeura.com
 # 192.243.59.13 Subject: CN=passeura.com
@@ -9031,7 +9030,6 @@
 0.0.0.0 hw-cdn2.contentabc.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Biqle.ru ==> Biqle.org [Uses AdsTerra]
-0.0.0.0 6moxhf9rmm.com
 0.0.0.0 a.adtng.com
 0.0.0.0 addresseepaper.com
 0.0.0.0 ankexper.fun
@@ -10083,7 +10081,6 @@
 0.0.0.0 go.my.club
 0.0.0.0 go.rdfxgo.com
 0.0.0.0 go.tmrjmp.com
-0.0.0.0 go.xhamster.com
 0.0.0.0 go.xlirdr.com
 0.0.0.0 go.xlivesex.com
 0.0.0.0 go.xlivrdr.com
@@ -10731,7 +10728,6 @@
 # 88.208.55.28
 # Regex for Pi-hole or similar environment: \.strpst\.com$ & \.stripcdn\.com$
 0.0.0.0 go.stripchat.com
-0.0.0.0 go.xlivrdr.com
 0.0.0.0 stripst.com
 0.0.0.0 stripcdn.com
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -10978,7 +10974,6 @@
 0.0.0.0 api.hotbitchapp.mobi
 0.0.0.0 api.rzrprk.win
 0.0.0.0 applogy.com
-0.0.0.0 apprefaculty.pro
 0.0.0.0 asianzporn.com
 0.0.0.0 askrswaths.casa
 0.0.0.0 aumsookr.com
@@ -11468,7 +11463,6 @@
 0.0.0.0 omnatuor.com
 0.0.0.0 omphantumpom.com
 0.0.0.0 one.affiliateland.io
-0.0.0.0 onepstr.com
 0.0.0.0 onlyjuicysex.com
 0.0.0.0 opposalactinal.cam
 0.0.0.0 ouslayer.co
