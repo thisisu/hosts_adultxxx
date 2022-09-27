@@ -24,6 +24,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Netfapx.com
 -  Noodlemagazine.com
 -  Onlyfullporn.video
+-  Peekvids.com
 -  Playvids.com
 -  Porn.com
 -  Pornhd8k.net
