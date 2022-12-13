@@ -11,9 +11,10 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  BuyMedia Advertising Network
 -  ClickAdu / Propeller Ads
 -  Daftporn.com
--  Daftsex.com
+-  Daft.sex (formerly Daftsex.com)
 -  Daftsex.net
 -  Efukt.com
+-  Eporner.com
 -  Fxporn.net
 -  GoodPorn.se
 -  GoodPorn.to
