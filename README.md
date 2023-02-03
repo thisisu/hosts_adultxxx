@@ -19,6 +19,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  GoodPorn.se
 -  GoodPorn.to
 -  Gotporn.com
+-  Hclips.com
 -  Heavy-r.com
 -  Hilltop Ads
 -  Hitprn.com
