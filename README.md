@@ -23,6 +23,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Heavy-r.com
 -  Hilltop Ads
 -  Hitprn.com
+-  Internetchicks.com
 -  JuicyAds
 -  Livejasmin
 -  Netfapx.com
