@@ -42,6 +42,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Pornve.com
 -  Pornwild.com
 -  Pornwiss.com
+-  Redtube.com (formerly Biqle.com)
 -  Social Media / Miscellaneous / Unknowns / Experimentals
 -  Spankbang.com
 -  Stripchat / Stripcdn
