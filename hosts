@@ -768,6 +768,7 @@
 0.0.0.0 adoptdischarged.com
 0.0.0.0 adoptexplorationanguish.com
 0.0.0.0 adoptim.fs.ak-is2.net
+0.0.0.0 adoptim.xml.ak-is2.net
 0.0.0.0 adoptpassivepromise.com
 0.0.0.0 adorablecaravandominion.com
 0.0.0.0 adorableold.com
@@ -872,6 +873,7 @@
 0.0.0.0 advantageseliminatebystander.com
 0.0.0.0 advantagespire.com
 0.0.0.0 adventurefeeds.fs.ak-is2.net
+0.0.0.0 adventurefeeds.xml-v4.ak-is2.net
 0.0.0.0 adventurefeeds.xml-v6.ak-is2.net
 0.0.0.0 adventurefeeds.xml.ak-is2.net
 0.0.0.0 adventureprojectiononly.com
@@ -4598,6 +4600,7 @@
 0.0.0.0 cassettepreceding.com
 0.0.0.0 castenet.digital
 0.0.0.0 casualproof.com
+0.0.0.0 cat.da.us.criteo.com
 0.0.0.0 cataractdisinteresteddressing.com
 0.0.0.0 cataractencroach.com
 0.0.0.0 cataractoutputprogramming.com
@@ -11777,6 +11780,8 @@
 0.0.0.0 littlmarsnews22.com
 0.0.0.0 live-screencaps.vscdns.com
 0.0.0.0 live.affipro.org
+0.0.0.0 live.pornamigo.com
+0.0.0.0 live.vot.media
 0.0.0.0 livecdn.pro
 0.0.0.0 livecheersharder.com
 0.0.0.0 livehdcams.com
@@ -17969,6 +17974,15 @@
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tpzbmsqck.com
 0.0.0.0 tq.adventurefeeds.com
+0.0.0.0 tq.craftviking-2.co
+0.0.0.0 tq.craftviking.co
+0.0.0.0 tq.frdjs-1.co
+0.0.0.0 tq.frdjs-2.co
+0.0.0.0 tq.gipostart-1.co
+0.0.0.0 tq.gipostart-2.co
+0.0.0.0 tq.netload1.com
+0.0.0.0 tq.nxthost-1.info
+0.0.0.0 tq.xonedart-1.live
 0.0.0.0 tr.outbrain.com
 0.0.0.0 trabnsfergo.com
 0.0.0.0 traccen.info
@@ -20621,10 +20635,21 @@
 0.0.0.0 xmchtb.com
 0.0.0.0 xmkmuadkefzav.com
 0.0.0.0 xml-g.adservme.com
+0.0.0.0 xml-v4.craftviking-2.co
+0.0.0.0 xml-v4.craftviking.co
 0.0.0.0 xml-v4.ezmob.com
+0.0.0.0 xml-v4.frdjs-1.co
+0.0.0.0 xml-v4.frdjs-2.co
+0.0.0.0 xml-v4.gipostart-1.co
+0.0.0.0 xml-v4.gipostart-2.co
 0.0.0.0 xml-v4.hetcash.com
 0.0.0.0 xml-v4.netload1.com
+0.0.0.0 xml-v4.netload2.com
+0.0.0.0 xml-v4.pushub.net
+0.0.0.0 xml-v4.pxfindone.com
 0.0.0.0 xml-v4.trafficmoose.com
+0.0.0.0 xml-v4.xonedart-1.live
+0.0.0.0 xml-v4.xonedart-2.live
 0.0.0.0 xml.active8ads.com
 0.0.0.0 xml.activerevenue.com
 0.0.0.0 xml.adcanny.com
@@ -20682,6 +20707,8 @@
 0.0.0.0 xml.cortexmg.com
 0.0.0.0 xml.cpcmega.com
 0.0.0.0 xml.cpmrevenue.com
+0.0.0.0 xml.craftviking-2.co
+0.0.0.0 xml.craftviking.co
 0.0.0.0 xml.ctrtraffic.com
 0.0.0.0 xml.dorkun.com
 0.0.0.0 xml.engageads.com
@@ -20693,7 +20720,11 @@
 0.0.0.0 xml.flairads.com
 0.0.0.0 xml.flairadscpc.com
 0.0.0.0 xml.flurryad.com
+0.0.0.0 xml.frdjs-1.co
+0.0.0.0 xml.frdjs-2.co
 0.0.0.0 xml.gadsbee.com
+0.0.0.0 xml.gipostart-1.co
+0.0.0.0 xml.gipostart-2.co
 0.0.0.0 xml.hotmaracas.com
 0.0.0.0 xml.howto5.io
 0.0.0.0 xml.hueads.com
@@ -20711,6 +20742,7 @@
 0.0.0.0 xml.mobviks.com
 0.0.0.0 xml.myprssto.com
 0.0.0.0 xml.netload1.com
+0.0.0.0 xml.netload2.com
 0.0.0.0 xml.neuralbid.com
 0.0.0.0 xml.octov8.com
 0.0.0.0 xml.olmeramarketing.com
@@ -20725,6 +20757,7 @@
 0.0.0.0 xml.poprtb.pro
 0.0.0.0 xml.popunder.bid
 0.0.0.0 xml.ppc.buzz
+0.0.0.0 xml.pushub.net
 0.0.0.0 xml.pxfind3.com
 0.0.0.0 xml.pxfindone.com
 0.0.0.0 xml.pxfindtwo.com
@@ -20765,6 +20798,7 @@
 0.0.0.0 xml.xbidflare.com
 0.0.0.0 xml.xmladsystem.com
 0.0.0.0 xml.xmlwizard.com
+0.0.0.0 xml.xonedart-2.live
 0.0.0.0 xml.yepmedia.com
 0.0.0.0 xml1.adsimilate.com
 0.0.0.0 xml2.adkernel.com
