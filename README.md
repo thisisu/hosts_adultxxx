@@ -5,16 +5,13 @@ More porn sites to analyze are welcome so just shoot me a message and I'll work 
 So far the following porn sites are monitored. The goal here is to block ads and redirects while not breaking the video playback. Some sites may attempt to prompt you to turn off your adblocker or remove your VPN if you can't see a video. I do not recommend this and would just try a different site instead.
 
 -  Adsterra Advertising Network
--  Biqle.com / Biqle.org / Redtube.com
--  Biqle.ru
+-  Biqle.com / Biqle.org / Biqle.ru / Daft.sex / Dsex.to / Redtube.com
 -  BuyMedia Advertising Network
 -  ClickAdu / Propeller Ads
 -  Daftporn.com
--  Daft.sex (formerly Daftsex.com)
 -  Daftsex.net
 -  Efukt.com
--  GoodPorn.se
--  GoodPorn.to
+-  GoodPorn.se / GoodPorn.to
 -  Gotporn.com
 -  Hclips.com
 -  Heavy-r.com
