@@ -25,6 +25,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Onlyfullporn.video
 -  Onlyporn.tube
 -  Peekvids.com
+-  Perverzija.com
 -  Playvids.com
 -  Porn.com
 -  Pornhd8k.net
