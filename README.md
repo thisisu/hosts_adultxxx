@@ -61,8 +61,4 @@ Type the following into the command line window: <b>ipconfig /flushdns</b>
 
 You should now be set for a safer browser experience.
 
-
-I've also included some regular expressions to be used within 
-<a href="https://docs.pi-hole.net/main/basic-install/">Pi-hole</a> if you'd like. I've been using them without an issue but I would love additional testers and feedback to make sure it's safe for others' setups as well.
-
 Thanks for any help and suggestions about additional sites to clean up. If you'd like to donate via Paypal, click <a href="http://paypal.me/d1savow3d">here</a>. Thank you!
