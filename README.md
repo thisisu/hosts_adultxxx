@@ -45,6 +45,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Xnxx.com
 -  Xtapes.to
 -  Xvideos.com
+-  Xxvideoss.org
 -  Yespornplease.sexy
 -  Youfreeporntube.com
 -  Youporn.com
