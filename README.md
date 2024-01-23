@@ -28,7 +28,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Perverzija.com
 -  Playvids.com
 -  Porn.com
--  Pornhd8k.net
+-  Pornhd8k.net / Pornhd8k.me
 -  Pornhits.com
 -  Pornhub.com
 -  Pornoeggs.com
