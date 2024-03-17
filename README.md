@@ -17,6 +17,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Hclips.com
 -  Heavy-r.com
 -  Hilltop Ads
+-  pornflixtor.com
 -  Hitprn.com
 -  Internetchicks.com
 -  JuicyAds
