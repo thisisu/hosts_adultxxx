@@ -11,6 +11,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Daftporn.com
 -  Daftsex.net
 -  Efukt.com
+-  Fxpornhd.com
 -  GoodPorn.se / GoodPorn.to
 -  Gotporn.com
 -  Hclips.com
