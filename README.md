@@ -1,4 +1,4 @@
-hi# hosts_adultxxx
+No hi# hosts_adultxxx
 Blocks ads and redirects from specific adult websites
 More porn sites to analyze are welcome so just shoot me a message and I'll work on getting it added.
 
@@ -27,6 +27,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Onlyporn.tube
 -  Peekvids.com
 -  Perverzija.com
+-  pornez.cam
 -  Playvids.com
 -  Porn.com
 -  Pornhd8k.net / Pornhd8k.me
