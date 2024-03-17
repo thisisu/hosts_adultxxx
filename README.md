@@ -1,4 +1,4 @@
-# hosts_adultxxx
+hi# hosts_adultxxx
 Blocks ads and redirects from specific adult websites
 More porn sites to analyze are welcome so just shoot me a message and I'll work on getting it added.
 
@@ -34,6 +34,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Pornhub.com
 -  Pornoeggs.com
 -  Pornone.com
+-  Porntn.net
 -  Porntrex.com
 -  Pornve.com
 -  Pornwiss.com
