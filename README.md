@@ -11,6 +11,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Daftporn.com
 -  Daftsex.net
 -  Efukt.com
+-  Fxpornhd.com
 -  GoodPorn.se / GoodPorn.to
 -  Gotporn.com
 -  Hclips.com
@@ -28,6 +29,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Perverzija.com
 -  Playvids.com
 -  Porn.com
+-  Pornez.cam
 -  Pornhd8k.net / Pornhd8k.me
 -  Pornhits.com
 -  Pornhub.com
@@ -41,6 +43,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Stripchat / Stripcdn
 -  Syndication / ExoClick / RealSrv / GoAdServer
 -  Terk.nl
+-  Watchoporn.com
 -  Xhamster.com
 -  Xnxx.com
 -  Xtapes.to
