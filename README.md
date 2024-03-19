@@ -1,4 +1,3 @@
-No hi# hosts_adultxxx
 Blocks ads and redirects from specific adult websites
 More porn sites to analyze are welcome so just shoot me a message and I'll work on getting it added.
 
