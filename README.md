@@ -15,10 +15,8 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  GoodPorn.se / GoodPorn.to
 -  Gotporn.com
 -  Hclips.com
--  watchoporn.com
 -  Heavy-r.com
 -  Hilltop Ads
--  pornflixtor.com
 -  Hitprn.com
 -  Internetchicks.com
 -  JuicyAds
@@ -29,10 +27,10 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Onlyporn.tube
 -  Peekvids.com
 -  Perverzija.com
--  pornez.cam
 -  Playvids.com
 -  Porn.com
 -  Pornez.cam
+-  Pornflixtor.com
 -  Pornhd8k.net / Pornhd8k.me
 -  Pornhits.com
 -  Pornhub.com
