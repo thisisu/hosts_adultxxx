@@ -1,10 +1,13 @@
-Blocks ads and redirects from specific adult websites
-More porn sites to analyze are welcome so just shoot me a message and I'll work on getting it added.
+Blocks ads and redirects from a list of adult websites known to contain advertisements, banners, tracking, etc...
+If you would like a site or advertising network added, please create an 'Issue' and I will get it added.
 
-So far the following porn sites are monitored. The goal here is to block ads and redirects while not breaking the video playback. Some sites may attempt to prompt you to turn off your adblocker or remove your VPN if you can't see a video. I do not recommend this and would just try a different site instead.
+The goal of this project is to block ads, redirects, tracking, etc while not breaking the video playback. Please let me know if you encounter any errors with this hosts file. Happy to problem solve / fix them.
+If you use Pi-Hole, there is a similar project that will aid with this hosts file: https://github.com/thisisu/pihole-regex . I use / maintain both of these and would recommend using them together.
+It covers a lot of the redundancy you may find here as a lot of these contain a similar pattern / keywords. e.g. ads., banners., tds., etc...
+
+The list below is what's covered. You can also consider this a harvesting grounds for bad/unwanted links to add to your own block lists
 
 -  Adsterra Advertising Network
--  Biqle.com / Biqle.org / Biqle.ru / Daft.sex / Dsex.to / Redtube.com
 -  BuyMedia Advertising Network
 -  ClickAdu / Propeller Ads
 -  Daftporn.com
@@ -17,6 +20,7 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Heavy-r.com
 -  Hilltop Ads
 -  Hitprn.com
+-  Humoron.com
 -  Internetchicks.com
 -  JuicyAds
 -  Livejasmin
@@ -38,7 +42,6 @@ So far the following porn sites are monitored. The goal here is to block ads and
 -  Porntn.net
 -  Porntrex.com
 -  Pornve.com
--  Pornwiss.com
 -  Social Media / Miscellaneous / Unknowns / Experimentals
 -  Spankbang.com
 -  Stripchat / Stripcdn
