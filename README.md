@@ -43,7 +43,6 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Porntrex.com
 -  Pornve.com
 -  Social Media / Miscellaneous / Unknowns / Experimentals
--  Spankbang.com
 -  Stripchat / Stripcdn
 -  Syndication / ExoClick / RealSrv / GoAdServer
 -  Terk.nl
@@ -54,7 +53,6 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Xvideos.com
 -  Xxvideoss.org
 -  Yespornplease.sexy
--  Youfreeporntube.com
 -  Youporn.com
 
 
