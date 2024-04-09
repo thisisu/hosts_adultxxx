@@ -23,7 +23,7 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Humoron.com
 -  Internetchicks.com
 -  JuicyAds
--  Livejasmin
+-  LiveJasmin
 -  Netfapx.com
 -  Noodlemagazine.com
 -  Onlyfullporn.video
@@ -44,8 +44,11 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Pornve.com
 -  Social Media / Miscellaneous / Unknowns / Experimentals
 -  Stripchat / Stripcdn
+-  Sxyprn.net
 -  Syndication / ExoClick / RealSrv / GoAdServer
 -  Terk.nl
+-  Thotsflix.com
+-  Upornia.com
 -  Watchoporn.com
 -  Xhamster.com
 -  Xnxx.com
