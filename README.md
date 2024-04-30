@@ -32,6 +32,7 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Perverzija.com
 -  Playvids.com
 -  Porn.com
+-  Porncide.com
 -  Pornez.cam
 -  Pornflixtor.com
 -  Pornhd8k.net / Pornhd8k.me
