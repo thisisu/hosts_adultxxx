@@ -13,6 +13,7 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Daftporn.com
 -  Daftsex.net
 -  Efukt.com
+-  Freepornvideos.xxx
 -  Fxpornhd.com
 -  GoodPorn.se / GoodPorn.to
 -  Gotporn.com
