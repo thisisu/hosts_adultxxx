@@ -72,4 +72,4 @@ Type the following into the command line window: <b>ipconfig /flushdns</b>
 
 You should now be set for a safer browser experience.
 
-Thanks for any help and suggestions about additional sites to clean up. If you'd like to donate via Paypal, click <a href="http://paypal.me/d1savow3d">here</a>. Thank you!
+Thanks for any help and suggestions about additional sites to clean up. If you wanted to donate something, check out <a href="https://www.amazon.com/hz/wishlist/ls/C2QC509ZM1BG?ref_=wl_share">this Amazon Wishlist link</a>. Thank you!
