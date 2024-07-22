@@ -8,12 +8,14 @@ It covers a lot of the redundancy you may find here as a lot of these contain a 
 The list below is what's covered. You can also consider this a harvesting grounds for bad/unwanted links to add to your own block lists
 
 -  Adsterra Advertising Network
+-  Beeg.porn
 -  BuyMedia Advertising Network
 -  ClickAdu / Propeller Ads
 -  Daftporn.com
 -  Daftsex.net
 -  Efukt.com
 -  Freepornvideos.xxx
+-  Fuqq.cam
 -  Fxpornhd.com
 -  GoodPorn.se / GoodPorn.to
 -  Gotporn.com
@@ -59,7 +61,6 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Xxvideoss.org
 -  Yespornplease.sexy
 -  Youporn.com
-
 
 
 In order to use this hosts file, you should first back up your existing one located at : <b>C:\Windows\System32\drivers\etc</b>
