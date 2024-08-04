@@ -17,7 +17,7 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Freepornvideos.xxx
 -  Fuqq.cam
 -  Fxpornhd.com
--  GoodPorn.se / GoodPorn.to
+-  GoodPorn.se / GoodPorn.to / Goodporno.org
 -  Gotporn.com
 -  Hclips.com
 -  Heavy-r.com
@@ -39,6 +39,7 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Pornez.cam
 -  Pornflixtor.com
 -  Pornhd8k.net / Pornhd8k.me
+-  Pornheal.com
 -  Pornhits.com
 -  Pornhub.com
 -  Pornoeggs.com
@@ -53,6 +54,7 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Terk.nl
 -  Thotsflix.com
 -  Upornia.com
+-  Watch.porn
 -  Watchoporn.com
 -  Xhamster.com
 -  Xnxx.com
