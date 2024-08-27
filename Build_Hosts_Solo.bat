@@ -10,8 +10,8 @@ sc stop Dnscache
 NIRCMD wait 2000
 
 GREP -vP "^#" <"%githubD%\hosts" >"%TEMP%\repairhosts1"
-SED -R "s/\:443$//" <"%TEMP%\repairhosts1" >"%TEMP%\repairhosts2"
-SED -R "/^0\.0\.0\.0/!s/(.*)/0\.0\.0\.0 \1/" <"%TEMP%\repairhosts2" >"%TEMP%\repairhosts3"
+SED -r "s/\:443$//" <"%TEMP%\repairhosts1" >"%TEMP%\repairhosts2"
+SED -r "/^0\.0\.0\.0/!s/(.*)/0\.0\.0\.0 \1/" <"%TEMP%\repairhosts2" >"%TEMP%\repairhosts3"
 SORT_ -f -u <"%TEMP%\repairhosts3" >"%TEMP%\repairhosts4"
 ECHO(# Title: thisisu/hosts_adultxxx>"%TEMP%\repairhosts1"
 ECHO(# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>"%TEMP%\repairhosts1"
