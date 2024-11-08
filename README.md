@@ -8,6 +8,7 @@ It covers a lot of the redundancy you may find here as a lot of these contain a 
 The list below is what's covered. You can also consider this a harvesting grounds for bad/unwanted links to add to your own block lists
 
 -  Adsterra Advertising Network
+-  A-lohas.jp
 -  Beeg.porn
 -  BuyMedia Advertising Network
 -  ClickAdu / Propeller Ads
