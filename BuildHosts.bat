@@ -1,29 +1,36 @@
 ::BuildHosts
 :: Created by Furtivex
 @echo OFF && color 17
-SET "hostsD=C:\Windows\System32\drivers\etc" && SET "githubD=C:\Users\d1savow3d\Documents\GitHub\hosts_adultxxx"
-title BuildHosts by Furtivex - Version 1.0.0
-ECHO(BuildHosts by Furtivex - Version 1.0.0
+REM ~~~~~~~~~~~~~~~~~~~~~~~~>
+cd /d %~dp0
+for %%g in (
+grep.exe
+libiconv2.dll
+libintl3.dll
+nircmd.exe
+pcre3.dll
+regex2.dll
+sed.exe
+sort_.exe
+) DO (
+COPY /Y "%CD%\dependencies\%%g" "%WINDIR%" >NUL 2>&1
+)
+SET "hostsD=C:\Windows\System32\drivers\etc"
+IF NOT EXIST "%userprofile%\Documents\GitHub\hosts_adultxxx" MD "%userprofile%\Documents\GitHub\hosts_adultxxx"
+SET "githubD=%userprofile%\Documents\GitHub\hosts_adultxxx"
+title BuildHosts by Furtivex - Version 1.0.2
+ECHO(BuildHosts by Furtivex - Version 1.0.2
 ECHO.
 ECHO.
 REM ~~~~~~~~~~~~~~~~~~~~~~~~>
-cd /d %~dp0
-COPY /y "%CD%\dependencies\sed.exe" %windir%\sed.exe >NUL 2>&1
-COPY /y "%CD%\dependencies\grep.exe" %windir%\grep.exe >NUL 2>&1
-COPY /y "%CD%\dependencies\sort_.exe" %windir%\sort_.exe >NUL 2>&1
-COPY /y "%CD%\dependencies\libiconv2.dll" %windir%\libiconv2.dll >NUL 2>&1
-COPY /y "%CD%\dependencies\libintl3.dll" %windir%\libintl3.dll >NUL 2>&1
-COPY /y "%CD%\dependencies\nircmd.exe" %windir%\nircmd.exe >NUL 2>&1
-COPY /y "%CD%\dependencies\pcre3.dll" %windir%\pcre3.dll >NUL 2>&1
-COPY /y "%CD%\dependencies\regex2.dll" %windir%\regex2.dll >NUL 2>&1
 sc stop Dnscache>NUL
 sc config Dnscache start= disabled>NUL
 NIRCMD wait 2000
-
 GREP -Ev "^#" <"%githubD%\hosts" >"%TEMP%\repairhosts1"
 SED -r "s/\:443$//" <"%TEMP%\repairhosts1" >"%TEMP%\repairhosts2"
 SED -r "/^0\.0\.0\.0/!s/(.*)/0\.0\.0\.0 \1/" <"%TEMP%\repairhosts2" >"%TEMP%\repairhosts3"
 SORT_ -f -u <"%TEMP%\repairhosts3" >"%TEMP%\repairhosts4"
+SED -r "s/\x22//g" <"%TEMP%\repairhosts4" >"%TEMP%\repairhosts5"
 ECHO(# Title: thisisu/hosts_adultxxx>"%TEMP%\repairhosts1"
 ECHO(# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>"%TEMP%\repairhosts1"
 ECHO(# Hosts file for browsing porn>>"%TEMP%\repairhosts1"
@@ -33,7 +40,7 @@ ECHO(# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>"%TEMP%\repairhosts1"
 ECHO(# 127.0.0.1 localhost>>"%TEMP%\repairhosts1"
 ECHO(# ::1 localhost>>"%TEMP%\repairhosts1"
 ECHO(# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>"%TEMP%\repairhosts1"
-TYPE "%TEMP%\repairhosts4">>"%TEMP%\repairhosts1"
+TYPE "%TEMP%\repairhosts5">>"%TEMP%\repairhosts1"
 COPY /Y "%TEMP%\repairhosts1" "%githubD%\hosts" >NUL 2>&1
 COPY /Y "%TEMP%\repairhosts1" "%hostsD%\hosts" >NUL 2>&1
 DEL /F/Q "%TEMP%\repairhosts?" >NUL 2>&1
