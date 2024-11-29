@@ -1,12 +1,6 @@
-Blocks ads and redirects from a list of adult websites known to contain advertisements, banners, tracking, etc...
-If you would like a site or advertising network added, please create an 'Issue' and I will get it added.
+This is a host file that aims to block all types of ads, banners, and redirects from specific adult websites. Sites like these are great for harvesting bad / unwanted links so feel free to use the list to add to your own blocklists. If you would like to get a site added / cleaned up, please [create an issue](https://github.com/thisisu/hosts_adultxxx/issues) so I get notified and can work on it.
 
-The goal of this project is to block ads, redirects, tracking, etc while not breaking the video playback. Please let me know if you encounter any errors with this hosts file. Happy to problem solve / fix them.
-If you use Pi-Hole, there is a similar project that will aid with this hosts file: https://github.com/thisisu/pihole-regex . I use / maintain both of these and would recommend using them together.
-It covers a lot of the redundancy you may find here as a lot of these contain a similar pattern / keywords. e.g. ads., banners., tds., etc...
-
-The list below is what's covered. You can also consider this a harvesting grounds for bad/unwanted links to add to your own block lists
-
+```
 -  Adsterra Advertising Network
 -  A-lohas.jp
 -  Beeg.porn
@@ -66,6 +60,7 @@ The list below is what's covered. You can also consider this a harvesting ground
 -  Yespornplease.sexy
 -  Youporn.com
 
+```
 
 In order to use this hosts file, you should first back up your existing one located at : <b>C:\Windows\System32\drivers\etc</b>
 
@@ -75,6 +70,8 @@ Afterwards, you should flush your DNS settings by opening a command prompt windo
 
 Type the following into the command line window: <b>ipconfig /flushdns</b>
 
-You should now be set for a safer browser experience.
+You should now be set for a safer browser experience. :)
 
-Thanks for any help and suggestions about additional sites to clean up. If you wanted to donate something, check out <a href="https://www.amazon.com/hz/wishlist/ls/C2QC509ZM1BG?ref_=wl_share">this Amazon Wishlist link</a>. Thank you!
+If you like my work and wanted to donate, here is the button below. Thank you
+
+[![donate_paypal](https://github.com/user-attachments/assets/aadd1f47-fe6a-4f61-97d4-5f30ff29fc33)](https://www.paypal.com/donate/?hosted_button_id=E68FUAQG2758N)
